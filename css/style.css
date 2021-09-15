@@ -1,0 +1,167 @@
+/*answerr1*/
+#accordion-1 {
+  font-size: 14px;
+}
+/*answerr2*/
+#accordion-2 {
+  font-size: 14px;
+}
+/*answerr3*/
+#accordion-3,
+#accordion-4 {
+  font-size: 14px;
+}
+/*answerr4*/
+#accordion-5 {
+  font-size: 14px;
+}
+/*answerr5*/
+#accordion-6 {
+  font-size: 14px;
+}
+/*answerr10*/
+#project-label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+#project-icon {
+  float: left;
+  height: 32px;
+  width: 32px;
+}
+#project-description {
+  margin: 0;
+  padding: 0;
+}
+/*answerr13*/
+.ui-widget-header,
+.ui-state-default,
+ui-button {
+  background: #b9cd6d;
+  border: 1px solid #b9cd6d;
+  color: #ffffff;
+  font-weight: bold;
+}
+/*answerr15*/
+.ui-menu {
+  width: 200px;
+}
+/*answerr16*/
+.ui-widget-header {
+  background: #cedc98;
+  border: 1px solid #dddddd;
+  color: #333333;
+  font-weight: bold;
+}
+/*answerr17*/
+.ui-widget-header {
+  background: #cedc98;
+  border: 1px solid #dddddd;
+  color: #333333;
+  font-weight: bold;
+}
+.progress-label {
+  position: absolute;
+  left: 50%;
+  top: 3411px;
+  font-weight: bold;
+  text-shadow: 1px 1px 0 #fff;
+}
+/*answerr21*/
+#spinner-2,
+#spinner-3 input {
+  width: 100px;
+}
+/*answerr22*/
+#tabs-1 {
+  font-size: 14px;
+}
+.ui-widget-header {
+  background: #b9cd6d;
+  border: 1px solid #b9cd6d;
+  color: #ffffff;
+  font-weight: bold;
+}
+/*answerr23*/
+#tabs-5 {
+  font-size: 14px;
+}
+.ui-widget-header {
+  background: #b9cd6d;
+  border: 1px solid #b9cd6d;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.ui-accordion .ui-accordion-header .ui-accordion-header-icon {
+  position: absolute;
+  left: -0.5em;
+  top: 50%;
+  margin-top: -8px;
+}
+
+/*answerr26*/
+
+.elemClass {
+  width: 200px;
+  height: 50px;
+  background-color: #b9cd6d;
+}
+.myClass {
+  font-size: 40px;
+  background-color: #ccc;
+  color: white;
+}
+/*answerr27*/
+#box-1 {
+  height: 100px;
+  width: 100px;
+  background: #b9cd6d;
+}
+/*answerr28*/
+#box-2 {
+  height: 100px;
+  width: 100px;
+  background: #b9cd6d;
+}
+/*answerr29*/
+.toggler {
+  width: 500px;
+  height: 200px;
+}
+#button {
+  padding: 0.5em 1em;
+  text-decoration: none;
+}
+#effect {
+  width: 240px;
+  height: 135px;
+  padding: 0.4em;
+  position: relative;
+}
+#effect h3 {
+  margin: 0;
+  padding: 0.4em;
+  text-align: center;
+}
+/*answerr30*/
+.LargeClass {
+  font-family: Arial;
+  font-size: large;
+  font-weight: bold;
+  color: Red;
+}
+.NormalClass {
+  font-family: Arial;
+  font-size: small;
+  font-weight: bold;
+  color: Blue;
+}
+/*answerr31*/
+.class1 {
+  border-width: 10px;
+  border-color: grey;
+  background-color: #cedc98;
+  color: black;
+}
